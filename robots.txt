@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emexuazu.github.io/Dod/sitemap_index.txt
+Sitemap: https://emexuazu.github.io/myH/sitemap_index.txt
+Sitemap: https://emexuazu.github.io/vrW/sitemap_index.txt
+Sitemap: https://emexuazu.github.io/xSZ/sitemap_index.txt
